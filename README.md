@@ -6,9 +6,9 @@
 
 I have 2 Years of Professional Experience as Data Scientist at a StartUp.
 
-I have experience in creating ML models, Data Analysis, Text/Image processing.
+I love solving real world business problems using ML models, Data Analysis, Text/Image processing.
 
-If you are having any Data Science oppurtunitites. Hit me up!..
+If you are looking for a passionate guy who has love towards Data Science. Hit me up!..
 
 <!---
 Prash099/Prash099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
