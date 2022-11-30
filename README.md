@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Prashanth Raghavendra Rao
+- 👋 Hi, I’m Prashanth Raghavendra Rao.
 - 👀 I’m interested in Data Science and Natural Language Processing.
-- 🌱 I’m currently learning Masters in Computer Science (Data Science Specialization)
+- 🌱 I’m currently learning Masters in Computer Science (Data Science Specialization).
 - 💞️ I’m looking to collaborate on Data Science Related Projects and Hackathon's.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/prashanth-r-6665211a9/)
 
