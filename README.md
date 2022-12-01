@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prashanth Raghavendra Rao.
+- 👋 Hi, I’m Prashanth Raghavendra Rao. Currently Living In Paris, France.
 - 👀 I’m interested in Data Science and AI.
 - 🌱 I’m currently learning Masters in Computer Science (Data Science Specialization) @EPITA Paris, France.
 - 💞️ I’m looking to collaborate on Data Science Related Projects and Hackathon's.
